@@ -1,0 +1,25 @@
+body {
+	background-color: grey;
+	
+}
+
+#mainpart {
+	background-color: grey;
+	color: blue;
+	text-align: center;
+	font-size:28;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#header {
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
